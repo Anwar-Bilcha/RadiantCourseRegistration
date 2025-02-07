@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\viewregistrations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\viewregistrations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\viewregistrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\viewregistrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\models\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\models\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250207143124_refinedRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RadiantCourseRegistration\\Migrations\\20250207143124_refinedRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\migrations\\20250206204203_courseregistrationtablerelationshipadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\migrations\\20250206204203_courseregistrationtablerelationshipadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\migrations\\20250206172130_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\migrations\\20250206172130_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\models\\shared\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\models\\shared\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\migrations\\20250206190138_courseregistrationtableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\migrations\\20250206190138_courseregistrationtableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\migrations\\20250206173033_seeddataupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\migrations\\20250206173033_seeddataupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|c:\\users\\hp\\source\\repos\\radiantcourseregistration\\radiantcourseregistration\\migrations\\20250206172814_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38C294-ECD6-40F6-A498-3BFBC776DA25}|RadiantCourseRegistration\\RadiantCourseRegistration.csproj|solutionrelative:radiantcourseregistration\\migrations\\20250206172814_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewRegistrations.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:58:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewRegistrations.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\ViewRegistrations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T14:58:29.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250207143124_refinedRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250207143124_refinedRelationship.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\20250207143124_refinedRelationship.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250207143124_refinedRelationship.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\20250207143124_refinedRelationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:31:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250206204203_CourseRegistrationTableRelationshipAdded.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206204203_CourseRegistrationTableRelationshipAdded.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\20250206204203_CourseRegistrationTableRelationshipAdded.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206204203_CourseRegistrationTableRelationshipAdded.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\20250206204203_CourseRegistrationTableRelationshipAdded.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:42:03.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250206190138_CourseRegistrationTableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206190138_CourseRegistrationTableAdded.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\20250206190138_CourseRegistrationTableAdded.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206190138_CourseRegistrationTableAdded.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\20250206190138_CourseRegistrationTableAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:01:38.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T18:08:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:00:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T17:59:25.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:58:04.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T17:57:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:54:35.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T17:53:18.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250206173033_SeedDataUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206173033_SeedDataUpdated.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\20250206173033_SeedDataUpdated.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206173033_SeedDataUpdated.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\20250206173033_SeedDataUpdated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:30:33.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250206172814_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206172814_SeedData.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\20250206172814_SeedData.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206172814_SeedData.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\20250206172814_SeedData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:28:14.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:23:03.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250206172130_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206172130_initialCreate.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Migrations\\20250206172130_initialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Migrations\\20250206172130_initialCreate.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Migrations\\20250206172130_initialCreate.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:21:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Models\\Shared\\EntityBase.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Models\\Shared\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Models\\Shared\\EntityBase.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Models\\Shared\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:18:54.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\appsettings.json",
+              "RelativeToolTip": "RadiantCourseRegistration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T17:16:11.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:12:01.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Courses.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses.cshtml.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:15:56.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Courses.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Courses.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Courses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:15:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Services\\CourseService.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:14:25.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Models\\Course.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:12:56.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T15:58:12.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:56:38.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Pages\\Register.cshtml",
+              "RelativeToolTip": "RadiantCourseRegistration\\Pages\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T15:46:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Models\\CourseRegistration.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Models\\CourseRegistration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Models\\CourseRegistration.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Models\\CourseRegistration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:45:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "RadiantCourseRegistration\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RadiantCourseRegistration\\RadiantCourseRegistration\\Program.cs",
+              "RelativeToolTip": "RadiantCourseRegistration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:41:50.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

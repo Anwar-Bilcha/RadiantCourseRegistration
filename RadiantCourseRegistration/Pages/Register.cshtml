@@ -1,0 +1,45 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register for a Course";
+}
+
+<div class="container mt-4">
+    <h2>Register for Course</h2>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="StudentName">Full Name</label>
+            <input type="text" id="StudentName" name="CourseRegistration.StudentName" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="StudentEmail">Email Address</label>
+            <input type="text" id="Email" name="CourseRegistration.Email" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="StudentEmail">Semester </label>
+            <input type="number" id="Semester" name="CourseRegistration.Semester" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="CourseId">Select Course</label>
+            <select id="CourseId" name="CourseRegistration.CourseName" class="form-control" required>
+                <option value="">-- Select Course --</option>
+                @foreach (var coursename in Model.CourseNames)
+                {
+                    <option value="@coursename">@coursename</option>
+                }
+            </select>
+        </div>
+        @if (!string.IsNullOrEmpty(Model.SuccessMessage))
+        {
+            <div class="alert alert-success mt-3">@Model.SuccessMessage</div>
+        }
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger mt-3">@Model.ErrorMessage</div>
+        }
+        <button type="submit" class="btn btn-primary mt-3">Register</button>
+   
+    </form>
+</div>

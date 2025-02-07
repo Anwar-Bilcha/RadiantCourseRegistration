@@ -1,0 +1,15 @@
+﻿@page "{id}"
+@model DeleteModel
+@{
+    ViewData["Title"] = "Delete Course";
+}
+
+<div class="container mt-4">
+    <h2>Are you sure you want to delete the course?</h2>
+    <h3>@Model.Course.Title</h3>
+
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a href="@Url.Page("/Courses/Index")" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

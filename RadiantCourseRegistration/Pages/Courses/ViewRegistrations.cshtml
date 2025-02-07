@@ -1,0 +1,40 @@
+﻿@page "{id}"
+@model ViewRegistrationsModel
+@{
+    ViewData["Title"] = "Registered Students for "+Model.Course.Title;
+}
+
+<div class="container mt-4">
+    <h2>Registered Students for @Model.Course.Title</h2>
+
+    @if (Model.Registrations!=null)
+    {
+        <table class="table table-bordered mt-3">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Student Name</th>
+                    <th>Email</th>
+                    <th>Registered Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Registrations.Count; i++)
+                {
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@Model.Registrations[i].StudentName</td>
+                        <td>@Model.Registrations[i].Email</td>
+                        <td>@Model.Registrations[i].RegisteredAt.ToString("yyyy-MM-dd")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="alert alert-warning mt-3">No students have registered for this course yet.</p>
+    }
+
+    <a asp-page="/Courses/Index" class="btn btn-primary mt-3">Back to Courses</a>
+</div>
