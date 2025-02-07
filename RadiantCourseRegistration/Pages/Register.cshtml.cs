@@ -38,10 +38,6 @@ namespace RadiantCourseRegistration.Pages
 
         public IActionResult OnPost()
         {
-            if (!ModelState.IsValid)
-            {
-                return Page();
-            }
             string courseId = Courses.Where(a => a.Title == CourseRegistration.CourseName).First().CourseId;
             CourseRegistration.CourseId = courseId ;
             Console.WriteLine($"{CourseRegistration.Email} : {courseId}");
@@ -59,7 +55,7 @@ namespace RadiantCourseRegistration.Pages
             _context.CourseRegistrations.Add(CourseRegistration);
              _context.SaveChanges();
             SuccessMessage = $"You have successfully registered for {CourseRegistration.CourseName} course.";
-            return RedirectToPage("Courses/ViewRegistrations", new {courseId = CourseRegistration.CourseId});
+            return RedirectToPage("/Courses/ViewRegistrations", new {id = CourseRegistration.CourseId});
         }
 
         //private string? getCourseId(CourseRegistration courseRegistration)
